@@ -3,7 +3,8 @@
 ![visitors](https://komarev.com/ghpvc/?username=shashanksangawar&color=00cf00)
 
 ## :book: About Me
-- 🖥 System Designer and FullStack Developer
+- 🖊️ Lifetime Student
+- 🖥 System Designer, FullStack Developer, AI/ML Developer, FinTech Practioneer
 - 💼 CTO of Eatofy &  Co-Owner of Appniche Technologies
 - 🎓 Studying for Bachelor's degree in IT department
 - Btw I use Arch [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/arch.svg" height="35px" align="center" alt="Arch Linux Logo" title="Arch Linux Logo"/>](https://archlinux.org/)
@@ -14,7 +15,7 @@
 ```yaml
 - Working with Google APIs!
 - Getting into the territory of actual production Ground work! 
-- Learning all kinds of fun stuff!
+- Learning all kinds of fun stuff like Quantum Physics & many more!
 ```
 
 ## 🛠️ Skills
