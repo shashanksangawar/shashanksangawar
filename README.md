@@ -4,7 +4,7 @@
 
 ## :book: About Me
 - 🖥 System Designer and FullStack Developer
-- 💼 FreeLancer
+- 💼 CTO of Eatofy &  Co-Owner of Appniche Technologies
 - 🎓 Studying for Bachelor's degree in IT department
 - Btw I use Arch [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/arch.svg" height="35px" align="center" alt="Arch Linux Logo" title="Arch Linux Logo"/>](https://archlinux.org/)
 
@@ -12,8 +12,8 @@
 ## ⬆ What I'm Upto
 - 🔨 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢...
 ```yaml
-- Developing a Website for Client!
-- Developing the UI of Finoplex!
+- Working with Google APIs!
+- Getting into the territory of actual production Ground work! 
 - Learning all kinds of fun stuff!
 ```
 
